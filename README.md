@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am a front end developer and also an undergrad student. <br>Currently learning Rust.<br>Till now I have significant experience in working with Typescript and React. <br> <3
+Hi! I am a front end developer and also an undergrad student. <br>Currently learning Rust.<br>Till now I have significant experience in working with Typescript and React.<br> Oh and I use Arch btw :) <br> <3 
 
 
 ## 🌐 Socials:
