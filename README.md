@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building cool stuff @ FuturixAI and Quantum Works<br>I like building obscure stuff and reading bad code
+Building cool stuff @ FuturixAI <br>I like building obscure stuff and reading bad code
 
 
 ## 🌐 Socials:
